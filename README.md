@@ -1,4 +1,4 @@
-# Diabetic_Retinopathy_Classification_Assignment
+# Machine Learning and Data Mining Project
 
 
 - Group project of 4 members
